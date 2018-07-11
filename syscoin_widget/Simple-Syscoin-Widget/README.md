@@ -3,7 +3,7 @@
 Here is a simple Syscoin wallet address widget made with CSS3 animations. There are two versions, large and mini. Hovering over the Syscoin will reveal your address. Based on Simple Reddcoin Widget : https://github.com/reddcoin-project/Simple-Reddcoin-Widget
 
 <h2>Live examples</h2>
-Syscoin Large : http://woss.fr/scripts/syscoin.html
+Syscoin Large : http://woss.fr/scripts/syscoin.html <br />
 Syscoin Mini : http://woss.fr/scripts/syscoinmini.html
 
 
